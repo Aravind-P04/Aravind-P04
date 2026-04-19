@@ -22,4 +22,4 @@ securing hybrid enterprise environments across SOC, cloud, and network defense.
 `Splunk` `Sentinel` `QRadar` `ELK` `Palo Alto` `CrowdStrike`
 `AWS` `Azure` `Python` `PowerShell` `Terraform` `Nessus` `Qualys`
 
-📍 Chicago, IL(Open To Relocatin)  •  🔗 linkedin.com/in/aravind-p04  •  📧 aravindpera26@gmail.com
+📍 Chicago, IL(Open To Relocation)  •  🔗 linkedin.com/in/aravind-p04  •  📧 aravindpera26@gmail.com
