@@ -22,12 +22,10 @@ securing hybrid enterprise environments across SOC, cloud, and network defense.
 `Splunk` `Sentinel` `QRadar` `ELK` `Palo Alto` `CrowdStrike`
 `AWS` `Azure` `Python` `PowerShell` `Terraform` `Nessus` `Qualys`
 
-## Certifications
+## 🏆 Certifications
 
-- Microsoft Certified: Security Operations Analyst Associate (SC-200)  
-  Issued by Microsoft | 2026  
-
-📄 Certificate:
-![SC-200 Certificate](https://learn.microsoft.com/api/credentials/share/en-us/PeramAravind-0426/3A59871EAF8936AC?sharingId=320BA8E86DAF3ED1) 
+| Certification | Provider | Year |
+|--------------|----------|------|
+| SC-200 Security Operations Analyst | Microsoft | 2026 | 
 
 📍 Chicago, IL(Open To Relocation)  •  🔗 linkedin.com/in/aravind-p04  •  📧 aravindpera26@gmail.com
