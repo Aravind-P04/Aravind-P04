@@ -22,7 +22,7 @@ securing hybrid enterprise environments across SOC, cloud, and network defense.
 `Splunk` `Sentinel` `QRadar` `ELK` `Palo Alto` `CrowdStrike`
 `AWS` `Azure` `Python` `PowerShell` `Terraform` `Nessus` `Qualys`
 
-## 🏆 Certifications
+## Certifications
 
 | Certification | Provider | Year |
 |--------------|----------|------|
